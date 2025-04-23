@@ -1,0 +1,230 @@
+2025-04-23 17:00:04,422 - INFO - Created backup directory: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:28:15,856 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:28:15,856 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:28:15,857 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:28:15,857 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:28:15,857 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:28:15,865 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:28:15,871 - INFO - Number of open documents: 2
+2025-04-23 17:28:15,909 - WARNING - Found document without FullName
+2025-04-23 17:28:15,912 - WARNING - Found document without FullName
+2025-04-23 17:28:15,913 - WARNING - No open AutoCAD files found
+2025-04-23 17:28:15,914 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 17:28:56,574 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:28:56,575 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:28:56,575 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:28:56,575 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:28:56,575 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:28:56,587 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:28:56,592 - INFO - Number of open documents: 2
+2025-04-23 17:28:56,598 - WARNING - Found document without FullName
+2025-04-23 17:28:56,602 - WARNING - Found document without FullName
+2025-04-23 17:28:56,602 - WARNING - No open AutoCAD files found
+2025-04-23 17:28:56,604 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 17:31:59,742 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:31:59,743 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:31:59,743 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:31:59,743 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:31:59,744 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:31:59,751 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:35:42,705 - INFO - Number of open documents: 2
+2025-04-23 17:35:42,713 - WARNING - Found document without FullName
+2025-04-23 17:35:42,717 - WARNING - Found document without FullName
+2025-04-23 17:40:02,622 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:40:02,623 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:40:02,623 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:40:02,624 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:40:02,624 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:40:02,632 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:40:17,032 - INFO - Number of open documents: 2
+2025-04-23 17:40:17,041 - INFO - Found open file: 
+2025-04-23 17:40:17,047 - INFO - Found open file: 
+2025-04-23 17:40:17,048 - WARNING - File does not exist: 
+2025-04-23 17:40:17,048 - WARNING - File does not exist: 
+2025-04-23 17:40:17,048 - INFO - Found 0 backup files to check
+2025-04-23 17:40:17,049 - INFO - Script completed successfully
+2025-04-23 17:40:45,366 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:40:45,368 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:40:45,368 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:40:45,368 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:40:45,368 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:40:45,376 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:40:48,098 - INFO - Number of open documents: 2
+2025-04-23 17:41:30,140 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:41:30,141 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:41:30,141 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:41:30,141 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:41:30,141 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:41:30,147 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:41:31,570 - INFO - Number of open documents: 2
+2025-04-23 17:41:32,213 - INFO - Found open file: Drawing1.dwg
+2025-04-23 17:41:33,588 - INFO - Found open file: Drawing2.dwg
+2025-04-23 17:41:33,589 - WARNING - File does not exist: Drawing1.dwg
+2025-04-23 17:41:33,589 - WARNING - File does not exist: Drawing2.dwg
+2025-04-23 17:41:33,590 - INFO - Found 0 backup files to check
+2025-04-23 17:41:33,590 - INFO - Script completed successfully
+2025-04-23 17:42:14,466 - INFO - Starting AutoCAD autosave script
+2025-04-23 17:42:14,467 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 17:42:14,467 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 17:42:14,468 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 17:42:14,468 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 17:42:14,476 - INFO - Successfully connected to AutoCAD
+2025-04-23 17:42:15,256 - INFO - Number of open documents: 2
+2025-04-23 17:42:46,103 - INFO - Found open file: Drawing1.dwg
+2025-04-23 18:40:21,287 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:40:21,287 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:40:21,287 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:40:21,288 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:40:21,288 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:40:21,296 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:40:21,302 - INFO - Number of open documents: 2
+2025-04-23 18:40:21,309 - DEBUG - Processing document 1
+2025-04-23 18:40:21,310 - DEBUG - FullName property: 
+2025-04-23 18:40:21,312 - DEBUG - Name property: Drawing1.dwg
+2025-04-23 18:40:21,314 - DEBUG - Path property: C:\Users\ALIENWARE\Documents
+2025-04-23 18:40:21,314 - DEBUG - Constructed full path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:40:21,314 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:40:21,314 - WARNING - Name: Drawing1.dwg, Path: C:\Users\ALIENWARE\Documents, FullName: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:40:21,316 - DEBUG - Processing document 2
+2025-04-23 18:40:21,318 - DEBUG - FullName property: 
+2025-04-23 18:40:21,320 - DEBUG - Name property: Drawing2.dwg
+2025-04-23 18:40:21,323 - DEBUG - Path property: C:\Users\ALIENWARE\Documents
+2025-04-23 18:40:21,323 - DEBUG - Constructed full path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:40:21,323 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:40:21,323 - WARNING - Name: Drawing2.dwg, Path: C:\Users\ALIENWARE\Documents, FullName: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:40:21,323 - WARNING - No open AutoCAD files found
+2025-04-23 18:40:21,325 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 18:51:17,445 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:51:17,445 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:51:17,445 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:51:17,446 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:51:17,446 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:51:17,455 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:51:17,461 - INFO - Number of open documents: 2
+2025-04-23 18:51:17,467 - DEBUG - Processing document 1
+2025-04-23 18:51:17,469 - DEBUG - FullName property: 
+2025-04-23 18:51:17,471 - DEBUG - Name property: Drawing1.dwg
+2025-04-23 18:51:17,472 - DEBUG - Path property: C:\Users\ALIENWARE\Documents
+2025-04-23 18:51:17,473 - DEBUG - Constructed full path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:51:17,473 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:51:17,473 - WARNING - Name: Drawing1.dwg, Path: C:/Users/ALIENWARE/Documents, FullName: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:51:17,476 - DEBUG - Processing document 2
+2025-04-23 18:51:17,478 - DEBUG - FullName property: 
+2025-04-23 18:51:17,480 - DEBUG - Name property: Drawing2.dwg
+2025-04-23 18:51:17,482 - DEBUG - Path property: C:\Users\ALIENWARE\Documents
+2025-04-23 18:51:17,482 - DEBUG - Constructed full path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:51:17,482 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:51:17,482 - WARNING - Name: Drawing2.dwg, Path: C:/Users/ALIENWARE/Documents, FullName: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:51:17,483 - WARNING - No open AutoCAD files found
+2025-04-23 18:51:17,484 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 18:53:40,064 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:53:40,064 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:53:40,064 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:53:40,064 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:53:40,065 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:53:40,073 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:53:40,079 - INFO - Number of open documents: 2
+2025-04-23 18:53:40,085 - DEBUG - Processing document 1
+2025-04-23 18:53:40,086 - DEBUG - Method 1 - FullName: 
+2025-04-23 18:53:40,089 - DEBUG - Method 2 - Constructed path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:53:40,090 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:53:40,090 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:53:40,092 - DEBUG - Processing document 2
+2025-04-23 18:53:40,094 - DEBUG - Method 1 - FullName: 
+2025-04-23 18:53:40,098 - DEBUG - Method 2 - Constructed path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:53:40,098 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:53:40,098 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:53:40,100 - WARNING - No open AutoCAD files found
+2025-04-23 18:53:40,101 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 18:57:36,258 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:57:36,259 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:57:36,259 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:57:36,259 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:57:36,260 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:57:36,268 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:57:36,274 - INFO - Number of open documents: 2
+2025-04-23 18:57:36,280 - DEBUG - Processing document 1
+2025-04-23 18:57:36,287 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:57:36,290 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:57:36,293 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:57:36,294 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:57:36,294 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:57:36,297 - DEBUG - Processing document 2
+2025-04-23 18:57:36,302 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:57:36,305 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:57:36,309 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:57:36,309 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:57:36,309 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:57:36,311 - WARNING - No open AutoCAD files found
+2025-04-23 18:57:36,313 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 18:57:45,144 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:57:45,144 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:57:45,144 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:57:45,145 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:57:45,145 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:57:45,153 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:57:45,160 - INFO - Number of open documents: 2
+2025-04-23 18:57:45,166 - DEBUG - Processing document 1
+2025-04-23 18:57:45,173 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:57:45,176 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:57:45,181 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:57:45,181 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:57:45,181 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:57:45,185 - DEBUG - Processing document 2
+2025-04-23 18:57:45,192 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:57:45,197 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:57:45,200 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:57:45,200 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:57:45,200 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:57:45,202 - WARNING - No open AutoCAD files found
+2025-04-23 18:57:45,204 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 18:58:07,205 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:58:07,205 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:58:07,206 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:58:07,206 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:58:07,206 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:58:07,214 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:58:07,220 - INFO - Number of open documents: 2
+2025-04-23 18:58:07,226 - DEBUG - Processing document 1
+2025-04-23 18:58:07,234 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:58:07,237 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:58:07,241 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:58:07,241 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:58:07,241 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:58:07,244 - DEBUG - Processing document 2
+2025-04-23 18:58:07,250 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:58:07,254 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:58:07,258 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:58:07,258 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:58:07,258 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:58:07,260 - WARNING - No open AutoCAD files found
+2025-04-23 18:58:07,262 - WARNING - No files to backup - is AutoCAD running?
+2025-04-23 18:59:29,752 - INFO - Starting AutoCAD autosave script
+2025-04-23 18:59:29,752 - INFO - Python version: 3.13.0 (tags/v3.13.0:60403a5, Oct  7 2024, 09:38:07) [MSC v.1941 64 bit (AMD64)]
+2025-04-23 18:59:29,752 - INFO - Current working directory: D:\Omar MK\AliSalahArch\Development\AutoSave AutoCad files
+2025-04-23 18:59:29,753 - INFO - Backup directory already exists: C:\Users\ALIENWARE\AutoCAD_Backups
+2025-04-23 18:59:29,753 - INFO - Attempting to connect to AutoCAD...
+2025-04-23 18:59:29,764 - INFO - Successfully connected to AutoCAD
+2025-04-23 18:59:29,770 - INFO - Number of open documents: 3
+2025-04-23 18:59:29,778 - DEBUG - Processing document 1
+2025-04-23 18:59:29,785 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:59:29,789 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:59:29,793 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:59:29,794 - WARNING - Could not determine valid file path for document 1
+2025-04-23 18:59:29,794 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing1.dwg
+2025-04-23 18:59:29,796 - DEBUG - Processing document 2
+2025-04-23 18:59:29,804 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:59:29,807 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:59:29,811 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:59:29,811 - WARNING - Could not determine valid file path for document 2
+2025-04-23 18:59:29,811 - WARNING - Attempted path: C:\Users\ALIENWARE\Documents\Drawing2.dwg
+2025-04-23 18:59:29,815 - DEBUG - Processing document 3
+2025-04-23 18:59:29,822 - DEBUG - Method 1 - Database FileName not available
+2025-04-23 18:59:29,826 - DEBUG - Method 2 - Document properties not available
+2025-04-23 18:59:29,830 - DEBUG - Method 3 - Name and Path: C:\Users\ALIENWARE\Desktop\FF_Bedroom_1_-_Al-Muannasiah_Villa[1].dwg
+2025-04-23 18:59:29,830 - INFO - Found open file: C:\Users\ALIENWARE\Desktop\FF_Bedroom_1_-_Al-Muannasiah_Villa[1].dwg
+2025-04-23 18:59:29,832 - INFO - Attempting to backup: C:\Users\ALIENWARE\Desktop\FF_Bedroom_1_-_Al-Muannasiah_Villa[1].dwg
+2025-04-23 18:59:29,833 - INFO - Backup destination: C:\Users\ALIENWARE\AutoCAD_Backups\FF_Bedroom_1_-_Al-Muannasiah_Villa[1]_20250423_185929.bak
+2025-04-23 18:59:29,837 - INFO - Successfully backed up: C:\Users\ALIENWARE\Desktop\FF_Bedroom_1_-_Al-Muannasiah_Villa[1].dwg to C:\Users\ALIENWARE\AutoCAD_Backups\FF_Bedroom_1_-_Al-Muannasiah_Villa[1]_20250423_185929.bak
+2025-04-23 18:59:29,837 - INFO - Found 1 backup files to check
+2025-04-23 18:59:29,838 - INFO - Script completed successfully
