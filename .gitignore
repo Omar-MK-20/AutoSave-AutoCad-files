@@ -7,3 +7,4 @@ temp/
 # ignore ALL files in ANY directory named .vscode
 .vscode/
 
+autocad_autosave.log
