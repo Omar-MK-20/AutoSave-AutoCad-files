@@ -61,6 +61,7 @@ def get_open_autocad_files():
                     # Get the file path from the database
                     file_path = db.FileName
                     logging.debug(f"Method 1 - Database FileName: {file_path}")
+                    doc.Save()
                 except:
                     logging.debug("Method 1 - Database FileName not available")
                 
@@ -72,6 +73,7 @@ def get_open_autocad_files():
                         # Get the file path from the properties
                         file_path = props.GetVariable("DWGPREFIX") + props.GetVariable("DWGNAME")
                         logging.debug(f"Method 2 - Document properties: {file_path}")
+                        doc.Save()
                     except:
                         logging.debug("Method 2 - Document properties not available")
                 
@@ -83,6 +85,7 @@ def get_open_autocad_files():
                         if name and path:
                             file_path = os.path.normpath(os.path.join(path, name))
                             logging.debug(f"Method 3 - Name and Path: {file_path}")
+                            doc.Save()
                     except:
                         logging.debug("Method 3 - Name and Path not available")
                 
@@ -91,6 +94,7 @@ def get_open_autocad_files():
                     try:
                         file_path = doc.FullName
                         logging.debug(f"Method 4 - FullName: {file_path}")
+                        doc.Save()
                     except:
                         logging.debug("Method 4 - FullName not available")
                 
